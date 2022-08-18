@@ -1,0 +1,6 @@
+.footer-down {
+    background-color: navy;
+    color: white;
+    display: flex;
+    justify-content: center;
+}

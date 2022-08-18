@@ -1,0 +1,7 @@
+.top-nav {
+    display: flex;
+    justify-content: right;
+    padding: 12px;
+    background-color: navy;
+    color: white;
+}
